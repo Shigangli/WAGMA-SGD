@@ -20,7 +20,7 @@ export SLURM_NTASKS_PER_NODE=1
 export OMP_NUM_THREADS=$SLURM_CPUS_PER_TASK
 export HDF5_USE_FILE_LOCKING=FALSE
 
-export PYTHONPATH=$PYTHONPATH:/path/to/WAGMA-SGD/wagmaSGD-modules/deep500/:/path/to/WAGMA-SGD/test-models/tf-models-r1.11/
+export PYTHONPATH=$PYTHONPATH:/path/to/WAGMA-SGD/WAGMA-SGD-modules/deep500/:/path/to/WAGMA-SGD/test-models/tf-models-r1.11/
 
 
 
@@ -32,7 +32,7 @@ HOROVOD_FLAG="-solo"
 DISABLE_WARMUP=
 #DISABLE_WARMUP="-dwu"
 
-TESTNAME="test-WAGMA-SGD-group4/"
+TESTNAME="test-WAGMA-SGD/"
 
 
 
