@@ -4,7 +4,7 @@ WAGMA-SGD is a decentralized asynchronous SGD based on wait-avoiding group model
 
 Demo
 ---------
-The wait-avoiding group allreduce operation is implemented in "./wagmaSGD-modules/fflib3/". To use it, simply configure and compile fflib3 as to an .so library by conducting "cmake .." and "make" in the directory "./wagmaSGD-modules/fflib3/lib/".
+The wait-avoiding group allreduce operation is implemented in `./wagmaSGD-modules/fflib3/`. To use it, simply configure and compile fflib3 as to an .so library by conducting `cmake ..` and `make` in the directory `./wagmaSGD-modules/fflib3/lib/`.
 
 
 
