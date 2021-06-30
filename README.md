@@ -12,7 +12,7 @@ For the deep learning tasks implemented in TensorFlow, we implemented custom C++
 Publication
 -----------
 
-The work of WAGMA-SGD is pulished in TPDS'21. See the paper for details. To cite our work:
+The work of WAGMA-SGD is pulished in TPDS'21. See the [paper](https://shigangli.github.io/files/wagmaSGD.pdf) for details. To cite our work:
 ```bibtex
 @ARTICLE{9271898,
   author={Li, Shigang and Ben-Nun, Tal and Nadiradze, Giorgi and Girolamo, Salvatore Di and Dryden, Nikoli and Alistarh, Dan and Hoefler, Torsten},
